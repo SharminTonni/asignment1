@@ -104,6 +104,15 @@
 
 /* section2 styling */
 
+.section2-title{
+    margin-left: 670px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 40px;
+    padding: 20px;
+    
+}
+
 .section2-list{
     margin-bottom: 50px;
     display: flex;
@@ -113,14 +122,7 @@
     text-align: center;
 }
 
-.section2-title{
-    margin-left: 670px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    font-size: 40px;
-    padding: 20px;
-    
-}
+
 
 .section2-list-title{
     font-size: 26px;
@@ -154,7 +156,6 @@
     font-weight: 800;
     margin-left: 50px;
     padding-top: 100px;
-    
     line-break: auto;
 }
 
