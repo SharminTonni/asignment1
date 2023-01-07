@@ -6,8 +6,9 @@
 /* heading styling */
 
 .header{
-    height: 100vh;
-    width: 100vw;
+    margin-top: -50px;
+    height: 760px;
+    width: 1510px;
     background: url('../images/banner/banner1.png');
     
 }
@@ -48,3 +49,56 @@
     color: white;
 
 }
+/* mains */
+/* Section1 styling */
+
+.section1{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.section1-img img{
+    width: 430px;
+    margin-top: 60px;
+    margin-left: 200px;
+    background: rgb(253, 194, 203);
+    border-radius: 70%;
+}
+
+.section1-details{
+    margin-top: 110px;
+    margin-left: 130px;
+    text-align: left;
+}
+
+.section1-details > h1{
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: -20px;
+    margin-right: 300px;
+    margin-bottom: 20px;
+    padding: 30px;
+    color: rgb(67, 66, 66);
+
+}
+
+.section1-details > p{
+    font-size: 22px;
+    padding-right: 190px;
+    margin-bottom: 20px;
+    color: rgb(74, 72, 72);
+    line-height: 30px;
+}
+
+.section1-details > ul{
+    list-style: none;
+    font-size: 22px;
+    color: rgb(97, 92, 92);
+}
+
+.fa-solid{
+    margin-right: 10px;
+    color: green;
+}
+
